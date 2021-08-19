@@ -1,0 +1,6 @@
+[package]
+name = "slotmap"
+version = "1.100.0"
+edition = "2018"
+
+[dependencies]

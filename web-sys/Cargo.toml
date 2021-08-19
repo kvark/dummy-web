@@ -1,0 +1,6 @@
+[package]
+name = "web-sys"
+version = "0.3.100"
+edition = "2018"
+
+[dependencies]

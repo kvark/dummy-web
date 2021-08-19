@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = [
+    "js-sys",
+    "slotmap",
+    "wasm-bindgen",
+    "web-sys",
+]
