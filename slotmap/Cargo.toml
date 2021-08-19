@@ -2,5 +2,4 @@
 name = "slotmap"
 version = "1.100.0"
 edition = "2018"
-
-[dependencies]
+license = "MIT OR Apache-2.0"

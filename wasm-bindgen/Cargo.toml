@@ -2,5 +2,4 @@
 name = "wasm-bindgen"
 version = "0.2.100"
 edition = "2018"
-
-[dependencies]
+license = "MIT OR Apache-2.0"
